@@ -7,3 +7,6 @@ Circuit Simulaattorissa valitse File - Import from text. Liitä ikkunaan txt tie
 Simulaatiot liittyvät kirjaan: https://tuotteet.sanomapro.fi/bu604520-sahkotekniikan-perusteet.html
 
 Sekä kirjaan littyvään harjoituskirjaan: Tulossa
+
+
+Codes for Raspberry Pi Pico: https://github.com/jaaqwe/pico
