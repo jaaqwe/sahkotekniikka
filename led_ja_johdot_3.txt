@@ -45,3 +45,4 @@ x 321 170 361 173 4 16 LED2
 x 465 168 505 171 4 16 LED3
 x 136 251 202 254 4 14 Kytkentä\s1
 x 134 335 200 338 4 14 Kytkentä\s2
+x 205 51 373 54 4 16 Kahden\sLED:n\skytkentä
