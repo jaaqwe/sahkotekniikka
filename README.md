@@ -9,6 +9,7 @@ Circuit Simulaattorissa valitse File - Import from text. Liitä ikkunaan txt tie
 Simulaatiot liittyvät kirjaan: https://tuotteet.sanomapro.fi/bu604520-sahkotekniikan-perusteet.html
 
 Sekä kirjaan littyvään harjoituskirjaan: Tulossa
+
 Numerot viittaavat harjoituskirjan tehtävä numeroon. 
 
 .  
