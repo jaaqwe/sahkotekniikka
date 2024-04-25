@@ -4,7 +4,7 @@ txt-päätteiset tiesostot ovat Circuit Simulator tiedostoja, jotka toimivat oso
 
 jpg-päätteiset ovat kuva samasta virtapiiristä simulaattorissa.
 
-Circuit Simulaattorissa valitse File - Import from text. Liitä ikkunaan txt tiedoston sisältö ja OK. 
+Circuit Simulaattorissa valitse File - Open file ja avaa tiedosto tai Import from text. Liitä ikkunaan txt tiedoston sisältö ja OK. 
 
 Simulaatiot liittyvät kirjaan: https://tuotteet.sanomapro.fi/bu604520-sahkotekniikan-perusteet.html
 
