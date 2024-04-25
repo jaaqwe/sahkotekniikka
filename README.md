@@ -1,6 +1,7 @@
 # Täällä on sähkötekniikkaan liittyviä tiedostoja
 
 txt-päätteiset tiesostot ovat Circuit Simulator tiedostoja, jotka toimivat osoitteessa: https://www.falstad.com/circuit/
+
 jpg-päätteiset ovat kuva samasta virtapiiristä simulaattorissa.
 
 Circuit Simulaattorissa valitse File - Import from text. Liitä ikkunaan txt tiedoston sisältö ja OK. 
